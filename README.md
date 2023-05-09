@@ -1,1 +1,1 @@
-Simple Interface using HTML5, CSS3,and JavaScript.
+Simple interface using HTML5, CSS3,and JavaScript.
