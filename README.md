@@ -1,12 +1,10 @@
-# Vegan Goods
+<h1 align="center">Vegan Goods</h1>
 
 <p align="center">
-Simples interface desenvolvida como projecto final para o curso SheCodes. Pode visitar o website aqui: https://taynarap.github.io/Vegan-Goods-Project/
+Interface developed as a final project for the SheCodes course. You may visite the website here: https://taynarap.github.io/Vegan-Goods-Project/
 </p>
 
-## ⚙️ Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## ⚙️ Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
